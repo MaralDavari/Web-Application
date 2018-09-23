@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+    <context-param>
+        <param-name>mypub</param-name>
+        <param-value>This is my Context Param</param-value>
+    </context-param>
+</web-app>
